@@ -1,14 +1,11 @@
 <!DOCTYPE html>
 <html lang=en>
 <body>
-<h1>im making another repo</h1>
-<p>becuz i probably forgot how to</p>
-<p>cuz im an absolute loser lmao</p>
-<p>why are you reading this</p>
-<h1>go away pls</h1>
-<h2>thank you</h2>
-<p>im now changing this</p>
-<p>and adding new stuff</p>
-<p>useless stuff</p>
-  </body>
+<h1>this is my repo</h1>
+<p>where i write useless things</p>
+<p>well mostly useless i hope to improve this as i get better at this thing</p>
+<p>probably no 1 is reading this but yeah still</p>
+<h1 style="background-color: lavender;">so yeah stay tuned or whatever</h1>
+<strong>byeee</strong>
+<body>
 </html>
