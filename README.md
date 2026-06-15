@@ -1,5 +1,11 @@
 <!DOCTYPE html>
 <html lang=en>
+  <head>
+  <style>
+    h1 {color: blue;}
+    p {color: ornage;}
+    </style>
+  </head>
 <body>
 <h1>this is my repo</h1>
 <p>where i write useless things</p>
